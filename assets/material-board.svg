@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 920 570" role="img" aria-label="Иллюстрация образцов материалов для мебели"><defs>
+ <linearGradient id="wall" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F1EEE7"/><stop offset="1" stop-color="#DDD9D0"/></linearGradient>
+ <linearGradient id="floor" x1="0" y1="0" x2="1" y2=".8"><stop stop-color="#D5CABE"/><stop offset="1" stop-color="#B9AA9B"/></linearGradient>
+ <linearGradient id="wood" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#BF9775"/><stop offset=".52" stop-color="#A67958"/><stop offset="1" stop-color="#D0A780"/></linearGradient>
+ <linearGradient id="stone" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F2EFEB"/><stop offset="1" stop-color="#CABDB2"/></linearGradient>
+ <linearGradient id="shadow" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1B3332" stop-opacity=".18"/><stop offset="1" stop-color="#1B3332" stop-opacity="0"/></linearGradient>
+ <filter id="blur"><feGaussianBlur stdDeviation="14"/></filter>
+ <pattern id="grain" width="73" height="110" patternUnits="userSpaceOnUse"><path d="M6 0C16 34 0 66 14 110M37 0C24 43 44 72 33 110M62 0C48 36 70 75 58 110" fill="none" stroke="#6E4A38" stroke-opacity=".10" stroke-width="1.4"/></pattern>
+ <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#495955" stroke-opacity=".06" stroke-width="1"/></pattern>
+ </defs><rect width="920" height="570" rx="0" fill="#E8E5DD"/><rect width="920" height="570" fill="url(#grid)"/>
+<g transform="translate(90 54) rotate(-7 180 200)"><rect x="0" y="0" width="330" height="410" rx="4" fill="#D4C3B2"/><rect x="16" y="16" width="298" height="378" fill="url(#wood)"/><rect x="16" y="16" width="298" height="378" fill="url(#grain)"/></g>
+<g transform="translate(414 24) rotate(7 200 200)"><rect width="285" height="350" rx="5" fill="#E7E7DD"/><path d="M14 14h257v320H14Z" fill="#D6D6C9"/><path d="M14 86h257m-257 84h257m-257 84h257" stroke="#BBB7A9" stroke-width="2"/></g>
+<rect x="406" y="386" width="337" height="113" rx="4" fill="#52675C"/><rect x="426" y="406" width="299" height="74" fill="#688273"/>
+<circle cx="765" cy="118" r="56" fill="#BE785A"/><circle cx="765" cy="118" r="30" fill="#E6CFBF"/>
+<g font-family="Arial,sans-serif" font-size="14" letter-spacing="3" fill="#335248"><text x="94" y="524">ФАСАДЫ</text><text x="420" y="546">ФАКТУРЫ И ОТТЕНКИ</text></g></svg>

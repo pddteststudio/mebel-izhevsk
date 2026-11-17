@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 900 650" role="img" aria-label="Мебель для прихожей"><defs>
+ <linearGradient id="wall" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F1EEE7"/><stop offset="1" stop-color="#DDD9D0"/></linearGradient>
+ <linearGradient id="floor" x1="0" y1="0" x2="1" y2=".8"><stop stop-color="#D5CABE"/><stop offset="1" stop-color="#B9AA9B"/></linearGradient>
+ <linearGradient id="wood" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#BF9775"/><stop offset=".52" stop-color="#A67958"/><stop offset="1" stop-color="#D0A780"/></linearGradient>
+ <linearGradient id="stone" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F2EFEB"/><stop offset="1" stop-color="#CABDB2"/></linearGradient>
+ <linearGradient id="shadow" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1B3332" stop-opacity=".18"/><stop offset="1" stop-color="#1B3332" stop-opacity="0"/></linearGradient>
+ <filter id="blur"><feGaussianBlur stdDeviation="14"/></filter>
+ <pattern id="grain" width="73" height="110" patternUnits="userSpaceOnUse"><path d="M6 0C16 34 0 66 14 110M37 0C24 43 44 72 33 110M62 0C48 36 70 75 58 110" fill="none" stroke="#6E4A38" stroke-opacity=".10" stroke-width="1.4"/></pattern>
+ <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#495955" stroke-opacity=".06" stroke-width="1"/></pattern>
+ </defs><rect width="900" height="650" fill="#F0EEE9"/><path d="M0 0h900v460L0 562Z" fill="url(#wall)"/><path d="M0 554 900 440v210H0Z" fill="url(#floor)"/><path d="M0 554 900 440" stroke="#C1B8A9" stroke-width="4"/><rect width="900" height="650" fill="url(#grid)"/><path d="M85 175h272v350H85Z" fill="#8B796A"/><path d="M85 175l29-18h260l-17 18Z" fill="#B49F8D"/>
+<rect x="93" y="182" width="124" height="332" fill="#B59878"/><rect x="222" y="182" width="125" height="332" fill="#E3DED2"/><rect x="93" y="182" width="254" height="332" fill="url(#grain)"/>
+<path d="M213 186v324" stroke="#8B8176" stroke-width="2"/><path d="M198 322v44m39-44v44" stroke="#F1E8DC" stroke-width="4" stroke-linecap="round"/>
+<!-- bench --> <path d="M379 372h338v124H379Z" fill="#425950"/><path d="M373 365l28-21h338l-22 21Z" fill="#E2C9B5"/><path d="M373 365h344v29H373Z" fill="#C9A78D"/><path d="M379 491h338v20H379Z" fill="#324840"/>
+<path d="M490 392v100m112-100v100" stroke="#849C8B" stroke-width="2"/><path d="M460 437h33m79 0h32" stroke="#CFDACD" stroke-width="4"/>
+<ellipse cx="568" cy="334" rx="68" ry="9" fill="#C0B9AF" opacity=".3"/><rect x="514" y="173" width="136" height="148" rx="68" fill="#E7E9E3" stroke="#B8A991" stroke-width="12"/><path d="M553 212h72" stroke="#DDDCD4" stroke-width="2"/>
+<g transform="translate(745 410) scale(0.72)"><ellipse cx="38" cy="134" rx="52" ry="12" fill="#344F47" opacity=".14"/><path d="M17 55h43l-7 68H24Z" fill="#AFA79B"/><path d="M15 55h48" stroke="#EEE9DE" stroke-width="8"/><path d="M38 53V-55" stroke="#5F7968" stroke-width="4"/><path d="M38 27Q-23 4 1-44Q41-29 38 27ZM38 6Q89-42 81-72Q36-63 38 6ZM39-16Q-9-87 20-107Q51-79 39-16ZM38-45Q94-88 78-119Q35-104 38-45Z" fill="#758D79"/><path d="M38 20Q72-8 69-32M38 4Q13-21 14-33" fill="none" stroke="#C1CDB2" stroke-width="2"/></g></svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 900 650" role="img" aria-label="Кухня под размеры помещения"><defs>
+ <linearGradient id="wall" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F1EEE7"/><stop offset="1" stop-color="#DDD9D0"/></linearGradient>
+ <linearGradient id="floor" x1="0" y1="0" x2="1" y2=".8"><stop stop-color="#D5CABE"/><stop offset="1" stop-color="#B9AA9B"/></linearGradient>
+ <linearGradient id="wood" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#BF9775"/><stop offset=".52" stop-color="#A67958"/><stop offset="1" stop-color="#D0A780"/></linearGradient>
+ <linearGradient id="stone" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F2EFEB"/><stop offset="1" stop-color="#CABDB2"/></linearGradient>
+ <linearGradient id="shadow" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1B3332" stop-opacity=".18"/><stop offset="1" stop-color="#1B3332" stop-opacity="0"/></linearGradient>
+ <filter id="blur"><feGaussianBlur stdDeviation="14"/></filter>
+ <pattern id="grain" width="73" height="110" patternUnits="userSpaceOnUse"><path d="M6 0C16 34 0 66 14 110M37 0C24 43 44 72 33 110M62 0C48 36 70 75 58 110" fill="none" stroke="#6E4A38" stroke-opacity=".10" stroke-width="1.4"/></pattern>
+ <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#495955" stroke-opacity=".06" stroke-width="1"/></pattern>
+ </defs><rect width="900" height="650" fill="#F2EFE9"/><path d="M0 0h900v460L0 562Z" fill="url(#wall)"/><path d="M0 554 900 440v210H0Z" fill="url(#floor)"/><path d="M0 554 900 440" stroke="#C1B8A9" stroke-width="4"/><rect width="900" height="650" fill="url(#grid)"/><path d="M42 516Q270 475 592 498L775 547v55H42Z" fill="#42544A" opacity=".08" filter="url(#blur)"/>
+<!-- tall cabinetry -->
+<path d="M111 140h152v385l-152 20Z" fill="#947258"/><path d="M263 140l40 25v345l-40 15Z" fill="#745944"/><path d="M111 140l41-19h111l40 44h-40Z" fill="#D0B291"/>
+<rect x="119" y="147" width="67" height="376" fill="url(#wood)"/><rect x="192" y="147" width="64" height="376" fill="#B48C6C"/><rect x="119" y="147" width="137" height="376" fill="url(#grain)"/>
+<path d="M181 164v348M198 164v348" stroke="#6B5447" opacity=".4" stroke-width="2"/><path d="M169 334v45m41-45v45" stroke="#E3D7C8" stroke-width="4" stroke-linecap="round"/>
+<!-- sink upper cabinetry -->
+<path d="M303 163 638 159v202l-335 7Z" fill="#E2DFD8"/><path d="M638 159l41 24v180l-41-2Z" fill="#918C85"/><path d="M303 163l37-18h302l37 38-41-24Z" fill="#F5F3ED"/>
+<rect x="316" y="170" width="150" height="145" fill="#E9E8E1" stroke="#C6C4BD" stroke-width="2"/><rect x="473" y="170" width="152" height="145" fill="#DFDED7" stroke="#C6C4BD" stroke-width="2"/>
+<path d="M466 171v144" stroke="#B2ADA5" stroke-width="3"/><path d="M458 222v31m26-31v31" stroke="#847B72" stroke-width="4" stroke-linecap="round"/>
+<!-- backsplash -->
+<path d="M304 314h336v110l-337 7Z" fill="#BDB8AD"/><path d="M306 327q95-12 169 10t162-7" stroke="#D4D1CA" stroke-width="3" opacity=".65" fill="none"/>
+<!-- base cabinet -->
+<path d="M300 422l341-15v113l-341 31Z" fill="#475D55"/><path d="M641 407l43 21v109l-43-17Z" fill="#2D4841"/>
+<path d="M295 420 634 400l53 24-342 25Z" fill="url(#stone)"/><path d="M345 449 687 424v12l-341 27-51-34v-9Z" fill="#D8D4CE"/>
+<path d="M311 452v91l102-9v-88m0 0v88l112-9v-86m0 0v86l111-10v-75" stroke="#A9B6A5" stroke-width="2.3" fill="none"/>
+<path d="M375 465v23m90-26v23m113-29v23" stroke="#BFCBC1" stroke-width="5" stroke-linecap="round"/>
+<!-- sink --> <path d="M354 418l91-6 23 9-89 7Z" fill="#929EA0"/><path d="M363 419l80-5 13 6-80 6Z" fill="#535C5F"/><path d="M418 415v-25q0-18 17-18t17 18" fill="none" stroke="#606A69" stroke-width="7"/>
+<!-- pendant --> <path d="M508 0v98" stroke="#7B7064" stroke-width="4"/><path d="M467 126q3-44 41-44t41 44Z" fill="#CFB69A"/><ellipse cx="508" cy="126" rx="41" ry="7" fill="#F8E7CA"/>
+<g transform="translate(743 388) scale(0.86)"><ellipse cx="38" cy="134" rx="52" ry="12" fill="#344F47" opacity=".14"/><path d="M17 55h43l-7 68H24Z" fill="#AFA79B"/><path d="M15 55h48" stroke="#EEE9DE" stroke-width="8"/><path d="M38 53V-55" stroke="#5F7968" stroke-width="4"/><path d="M38 27Q-23 4 1-44Q41-29 38 27ZM38 6Q89-42 81-72Q36-63 38 6ZM39-16Q-9-87 20-107Q51-79 39-16ZM38-45Q94-88 78-119Q35-104 38-45Z" fill="#758D79"/><path d="M38 20Q72-8 69-32M38 4Q13-21 14-33" fill="none" stroke="#C1CDB2" stroke-width="2"/></g></svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1080 840" role="img" aria-label="Авторская концептуальная визуализация кухни, демонстрационный эскиз"><defs>
+ <linearGradient id="wall" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F1EEE7"/><stop offset="1" stop-color="#DDD9D0"/></linearGradient>
+ <linearGradient id="floor" x1="0" y1="0" x2="1" y2=".8"><stop stop-color="#D5CABE"/><stop offset="1" stop-color="#B9AA9B"/></linearGradient>
+ <linearGradient id="wood" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#BF9775"/><stop offset=".52" stop-color="#A67958"/><stop offset="1" stop-color="#D0A780"/></linearGradient>
+ <linearGradient id="stone" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F2EFEB"/><stop offset="1" stop-color="#CABDB2"/></linearGradient>
+ <linearGradient id="shadow" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1B3332" stop-opacity=".18"/><stop offset="1" stop-color="#1B3332" stop-opacity="0"/></linearGradient>
+ <filter id="blur"><feGaussianBlur stdDeviation="14"/></filter>
+ <pattern id="grain" width="73" height="110" patternUnits="userSpaceOnUse"><path d="M6 0C16 34 0 66 14 110M37 0C24 43 44 72 33 110M62 0C48 36 70 75 58 110" fill="none" stroke="#6E4A38" stroke-opacity=".10" stroke-width="1.4"/></pattern>
+ <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#495955" stroke-opacity=".06" stroke-width="1"/></pattern>
+ </defs><rect width="1080" height="840" fill="#DCD9D0"/><path d="M0 0h1080v648L0 788Z" fill="#E8E5DC"/><path d="M0 780 1080 627v213H0Z" fill="#C2B6A5"/><path d="M0 780 1080 627" stroke="#E5DED5" stroke-width="4"/>
+<rect width="1080" height="840" fill="url(#grid)"/>
+<!-- upper tall unit -->
+<path d="M130 144 384 96v512l-254 63Z" fill="#AE8A6E"/><path d="M384 96l56 39v508l-56-35Z" fill="#80614E"/><path d="M130 144l60-44 194-4 56 39-56-39Z" fill="#D7B99A"/><path d="M140 152 255 132v476l-115 30Z" fill="url(#wood)"/><path d="M265 130 374 109v473l-109 28Z" fill="#A78366"/>
+<path d="M258 134v470" stroke="#826951" stroke-width="3"/><path d="M234 349v46m53-46v46" stroke="#EFDBBF" stroke-width="5" stroke-linecap="round"/>
+<!-- upper cabinetry -->
+<path d="M440 166 884 153v227l-444 17Z" fill="#E5E1D8"/><path d="M884 153l55 34v222l-55-29Z" fill="#7B7C6E"/><path d="M440 166l51-28 445 25 3 24-55-34Z" fill="#F8F3E9"/>
+<path d="M449 174h208v169l-208 7Z" fill="#D3D8CD"/><path d="M664 169h205v171l-205 5Z" fill="#E7E6DD"/><path d="M659 170v173" stroke="#B1B9AB" stroke-width="3"/><path d="M637 234v43m42-43v43" stroke="#7A8178" stroke-width="6" stroke-linecap="round"/>
+<!-- backsplash --> <path d="M440 348l444-11v117l-444 21Z" fill="#B8B9AE"/><path d="M464 371q126-18 220 0t176-8" stroke="#D9DAD0" opacity=".55" fill="none" stroke-width="3"/>
+<!-- base --> <path d="M424 466 898 439v166l-474 50Z" fill="#2D4C44"/><path d="M898 439l54 31v173l-54-38Z" fill="#1E3834"/>
+<path d="M414 460 887 425l67 41-479 48Z" fill="url(#stone)"/><path d="M475 514l479-48v16l-480 50-60-56v-16Z" fill="#DDD5CB"/>
+<path d="M444 529v111m147-126v112m151-127v115m155-131v120" stroke="#789286" stroke-width="3"/><path d="M523 534v35m143-51v35m154-53v35" stroke="#C3D3C6" stroke-width="6" stroke-linecap="round"/>
+<!-- sink --> <path d="M495 455l118-8 36 10-123 11Z" fill="#899694"/><path d="M505 457l105-7 27 7-109 9Z" fill="#344F50"/><path d="M577 447v-37q0-24 25-24t24 24" fill="none" stroke="#73807A" stroke-width="9"/>
+<!-- pendant --> <path d="M788 0v112" stroke="#736758" stroke-width="4"/><path d="M730 150q4-53 58-53t58 53Z" fill="#C08465"/><ellipse cx="788" cy="150" rx="58" ry="11" fill="#F9E7C4"/>
+<!-- floating engineering labels -->
+<g font-family="Arial,sans-serif"><path d="M440 111h442" stroke="#304D46" stroke-width="2" stroke-dasharray="7 7" opacity=".6"/><path d="M440 102v18m442-18v18" stroke="#304D46" stroke-width="2" opacity=".6"/><rect x="577" y="83" width="154" height="28" rx="4" fill="#F5F1E8"/><text x="653" y="102" text-anchor="middle" font-size="14" fill="#305248">под ваш размер</text>
+<path d="M1007 456v186" stroke="#304D46" stroke-width="2" stroke-dasharray="7 7"/><path d="M995 456h23m-23 186h23" stroke="#304D46" stroke-width="2"/><rect x="982" y="531" width="58" height="31" rx="5" fill="#F5F1E8"/><text x="1011" y="551" text-anchor="middle" font-size="13" fill="#305248">мм</text></g>
+<path d="M75 727h200" stroke="#4B665B" stroke-width="1.5"/><text x="75" y="715" font-size="15" font-family="Arial,sans-serif" letter-spacing="2" fill="#375C52">ЭСКИЗ / DEMO</text></svg>

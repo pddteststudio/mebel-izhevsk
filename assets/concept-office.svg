@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 900 650" role="img" aria-label="Рабочее место и офисная мебель"><defs>
+ <linearGradient id="wall" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F1EEE7"/><stop offset="1" stop-color="#DDD9D0"/></linearGradient>
+ <linearGradient id="floor" x1="0" y1="0" x2="1" y2=".8"><stop stop-color="#D5CABE"/><stop offset="1" stop-color="#B9AA9B"/></linearGradient>
+ <linearGradient id="wood" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#BF9775"/><stop offset=".52" stop-color="#A67958"/><stop offset="1" stop-color="#D0A780"/></linearGradient>
+ <linearGradient id="stone" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F2EFEB"/><stop offset="1" stop-color="#CABDB2"/></linearGradient>
+ <linearGradient id="shadow" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1B3332" stop-opacity=".18"/><stop offset="1" stop-color="#1B3332" stop-opacity="0"/></linearGradient>
+ <filter id="blur"><feGaussianBlur stdDeviation="14"/></filter>
+ <pattern id="grain" width="73" height="110" patternUnits="userSpaceOnUse"><path d="M6 0C16 34 0 66 14 110M37 0C24 43 44 72 33 110M62 0C48 36 70 75 58 110" fill="none" stroke="#6E4A38" stroke-opacity=".10" stroke-width="1.4"/></pattern>
+ <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#495955" stroke-opacity=".06" stroke-width="1"/></pattern>
+ </defs><rect width="900" height="650" fill="#F0EEE7"/><path d="M0 0h900v460L0 562Z" fill="url(#wall)"/><path d="M0 554 900 440v210H0Z" fill="url(#floor)"/><path d="M0 554 900 440" stroke="#C1B8A9" stroke-width="4"/><rect width="900" height="650" fill="url(#grid)"/><path d="M93 183h388v23H93Z" fill="#B49D85"/><path d="M112 205h344v213H112Z" fill="#E1D7C9"/><path d="M225 205v211m114-211v211" stroke="#C7BBA9" stroke-width="4"/>
+<rect x="138" y="236" width="60" height="123" rx="4" fill="#EDE8E1"/><rect x="256" y="236" width="60" height="123" rx="4" fill="#EDE8E1"/>
+<!-- desk --> <ellipse cx="520" cy="526" rx="262" ry="43" fill="#465D55" opacity=".12" filter="url(#blur)"/>
+<path d="M305 390 680 358l88 54-378 35Z" fill="#D9B99D"/><path d="M390 447l378-35v23l-378 39-85-61v-23Z" fill="#9B775B"/>
+<path d="M416 469v93l34-3v-93m251-28v102l34-3V436" fill="#556860"/>
+<path d="M458 459h210v84H458Z" fill="#405851"/><path d="M458 459l210-20v104l-210 15Z" fill="#D8C4AF"/><path d="M563 445v108" stroke="#B09882" stroke-width="3"/>
+<!-- laptop --> <path d="M432 344h105l8 61-109 8Z" fill="#344D48"/><path d="M435 346h99l8 54-104 8Z" fill="#B4C7C3"/><path d="M431 408l136 8-20 8-131-7Z" fill="#566760"/>
+<!-- lamp --> <path d="M663 371l33-77 29 4" stroke="#344A45" stroke-width="6" fill="none"/><path d="M710 289q26-25 44 6l-25 11Z" fill="#C58C70"/>
+<g transform="translate(768 420) scale(0.55)"><ellipse cx="38" cy="134" rx="52" ry="12" fill="#344F47" opacity=".14"/><path d="M17 55h43l-7 68H24Z" fill="#AFA79B"/><path d="M15 55h48" stroke="#EEE9DE" stroke-width="8"/><path d="M38 53V-55" stroke="#5F7968" stroke-width="4"/><path d="M38 27Q-23 4 1-44Q41-29 38 27ZM38 6Q89-42 81-72Q36-63 38 6ZM39-16Q-9-87 20-107Q51-79 39-16ZM38-45Q94-88 78-119Q35-104 38-45Z" fill="#758D79"/><path d="M38 20Q72-8 69-32M38 4Q13-21 14-33" fill="none" stroke="#C1CDB2" stroke-width="2"/></g></svg>
